@@ -1,0 +1,22 @@
+# Eclipse workspace metadata
+.metadata/
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java build output
+bin/
+*.class
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Operating system files
+Thumbs.db
+.DS_Store
