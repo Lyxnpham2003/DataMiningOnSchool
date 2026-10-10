@@ -1,4 +1,4 @@
-# NLPonSchool
+# DataMiningOnSchool
 
 Kho lưu trữ bài thực hành Machine Learning và khai phá dữ liệu của **Phạm Đào Thành Đạt — MSSV 21083541**. Nội dung hiện có tập trung vào hồi quy logistic, hồi quy tuyến tính có regularization, so sánh mô hình phân loại và sử dụng Weka trong Java.
 
@@ -33,7 +33,7 @@ Kho lưu trữ bài thực hành Machine Learning và khai phá dữ liệu củ
 ## Cấu trúc thư mục
 
 ```text
-NLPonSchool/
+DataMiningOnSchool/
 ├── README.md
 ├── .gitignore
 ├── C1_W3_Lab01_Sigmoid_function.ipynb
@@ -61,8 +61,8 @@ NLPonSchool/
 Chuẩn bị Python 3 và cài các thư viện được sử dụng trong notebook:
 
 ```bash
-git clone https://github.com/Lyxnpham2003/NLPonSchool.git
-cd NLPonSchool
+git clone https://github.com/Lyxnpham2003/DataMiningOnSchool.git
+cd DataMiningOnSchool
 python -m pip install notebook numpy matplotlib pandas scikit-learn
 python -m notebook
 ```
